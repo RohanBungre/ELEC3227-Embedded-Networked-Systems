@@ -1,4 +1,4 @@
-# ELEC3227-Embedded-Networked-Systems
+# ELEC3227 Embedded Networked Systems
 
 ## Module Description
 
